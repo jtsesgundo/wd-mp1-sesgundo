@@ -1,5 +1,5 @@
 *{
-    font-family: garamond;
+    font-family: sans-serif;
 }
 body{
     background-color: rgba(222, 221, 135, 0.952);
@@ -16,7 +16,7 @@ nav{
 .nav-link:hover{
     background-color: #FFCA2C;
     border-radius: 2px;
-    color: aliceblue;
+    color: rgba(0, 0, 0, 0.793);
     padding: 1px;
     font-size: large;
 }
