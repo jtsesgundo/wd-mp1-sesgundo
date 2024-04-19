@@ -20,25 +20,15 @@ nav{
     padding: 1px;
     font-size: large;
 }
-.login{
-    position: relative;
-    display: flex;
-    justify-content: flex-end;
-    align-items: center;
-    width: 50%;
+.signup{
+    
     margin-right: 50px;
+    color: antiquewhite;
+    text-decoration: none;
 }
 .form-control{
     color: aliceblue;
     background-color: rgba(0, 0, 0, 0);
-}
-.login a{
-    color: antiquewhite;
-    margin-left: 5px;
-    padding-left: 50px;
-}
-.login fa-user{
-    text-decoration-style: none;
 }
 .box:hover{
     transform: scale(1.1);
